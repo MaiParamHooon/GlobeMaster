@@ -1,8 +1,8 @@
 # GlobeMaster
 
-![Image 1](https://raw.githubusercontent.com/MaiParamHooon/GlobeMaster/master/images/Home.png)  
-![Image 1](https://raw.githubusercontent.com/MaiParamHooon/GlobeMaster/master/images/Campgrounds.png)  
-![Image 3](https://raw.githubusercontent.com/MaiParamHooon/GlobeMaster/master/images/NewCapmground.png)
+![Image 1](https://raw.githubusercontent.com/paramj0t/GlobeMaster/master/images/Home.png)  
+![Image 1](https://raw.githubusercontent.com/paramj0t/GlobeMaster/master/images/Campgrounds.png)  
+![Image 3](https://raw.githubusercontent.com/paramj0t/GlobeMaster/master/images/NewCapmground.png)
 
 GlobeMaster is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.
 
