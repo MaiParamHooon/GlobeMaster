@@ -22,7 +22,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/MaiParamHooon/globemaster.git
+git clone https://github.com/paramj0t/globemaster.git
 cd GlobeMaster
 npm install
 ```
